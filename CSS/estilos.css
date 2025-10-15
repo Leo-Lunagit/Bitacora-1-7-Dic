@@ -7,4 +7,10 @@
 
 .pns{font-family: 'Poppins';}; .rlw{font-family: 'Raleway';}; .rbt{font-family: 'Roboto';}; .bgf{font-family: 'Brugenfield';}
 
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 /*  */
